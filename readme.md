@@ -1,7 +1,11 @@
 # Github
 
-Arquivo de aula
+Arquivo de aula inicial do curso de Git no Udemy 
 
-no udemy fiz esse teste para entender e deu certo.
+//fiz esse teste para entender e deu certo
 
-agora compara essa parte
+Agora comparando no diff pra ver essa linha foi criada
+
+//deletamos e recriamos essa linha
+
+Agora comitando novamente para adicionar ao contexto
